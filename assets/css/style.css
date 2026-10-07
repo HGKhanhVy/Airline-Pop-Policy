@@ -161,9 +161,9 @@ img {
 }
 
 .brand img {
-    width: 44px;
-    height: 44px;
-    border-radius: 14px;
+    width: 56px;
+    height: 56px;
+    border-radius: 16px;
     border: var(--line) solid var(--brown);
     background: var(--cream);
 }

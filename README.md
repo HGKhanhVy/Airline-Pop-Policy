@@ -29,5 +29,5 @@ for example `privacy.html?lang=vi`.
 - When a service is added to or removed from the game (ads, analytics, measurement),
   update the table in section 3 of `privacy.html`.
 
-The art comes from the game itself (Craftpix.net cat characters used under licence) and
+The art comes from the game itself, including its app icon (Craftpix.net cat characters used under licence), and
 the typeface is Baloo 2 from Google Fonts (SIL Open Font License).
